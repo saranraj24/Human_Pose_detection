@@ -13,3 +13,5 @@ https://tfhub.dev/google/movenet/singlepose/lightning/4
 
 # Ref
 https://www.tensorflow.org/hub/tutorials/movenet?form=MG0AV3
+
+# Note: try loading this file Google Collab
